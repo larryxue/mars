@@ -1,7 +1,7 @@
 [run]
 branch = True
 cover_pylib = False
-concurrency = multiprocessing,gevent
+concurrency = multiprocessing
 parallel = True
 plugins = Cython.Coverage
 include =
